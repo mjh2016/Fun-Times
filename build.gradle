@@ -1,0 +1,8 @@
+apply plugin: 'application'
+
+repositories
+{
+	mavenCentral()
+}
+
+mainClassName = 'funtimes'
